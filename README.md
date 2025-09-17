@@ -21,8 +21,7 @@ El objetivo es servir como vidriera digital sencilla para captar clientes, mostr
 Para trabajar o ver la landing en tu máquina local, seguí estos pasos:
 
 1. Cloná el repositorio:
-   ```bash
-   git clone https://github.com/francofazzio/idesigntusl.git
+ git clone https://github.com/francofazzio/idesigntusl.git
 2. entra a la carpeta cd idesigntusl
 3. inicia servidor local python3 -m http.server 8000
 4. abrir navegador en http://localhost:800
